@@ -929,6 +929,15 @@
     recompose "0.28.0 - 0.30.0"
     warning "^4.0.1"
 
+"@material-ui/lab@^3.0.0-alpha.22":
+  version "3.0.0-alpha.22"
+  resolved "https://registry.yarnpkg.com/@material-ui/lab/-/lab-3.0.0-alpha.22.tgz#1e2fee3e3b0fedbb5e82314852f2e30b125ae99a"
+  integrity sha512-GxaRzXKpBDZ3el/rFYbX91pI2VekmQdSq6U8VSvU7OTs7IgZoqHXGiDBASF8G/vnWSUfidIpAPZlCZUE7gulNg==
+  dependencies:
+    "@babel/runtime" "7.1.2"
+    classnames "^2.2.5"
+    keycode "^2.1.9"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
